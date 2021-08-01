@@ -1,0 +1,5561 @@
+{
+    "10": [
+        111,
+        377
+    ],
+    "15360bit": [
+        108
+    ],
+    "2007": [
+        176
+    ],
+    "2009": [
+        371
+    ],
+    "2015": [
+        323
+    ],
+    "30": [
+        224,
+        225
+    ],
+    "3dterrains": [
+        96
+    ],
+    "40": [
+        252
+    ],
+    "4th": [
+        371
+    ],
+    "81": [
+        111,
+        377
+    ],
+    "abcsg": [
+        286
+    ],
+    "ability": [
+        248
+    ],
+    "absorption": [
+        106
+    ],
+    "acceleration": [
+        29
+    ],
+    "access": [
+        66
+    ],
+    "accommodation": [
+        178,
+        190
+    ],
+    "accord": [
+        319
+    ],
+    "accurate": [
+        129
+    ],
+    "achievementbased": [
+        220
+    ],
+    "action": [
+        242,
+        368
+    ],
+    "active": [
+        10,
+        318
+    ],
+    "activity": [
+        104,
+        105,
+        119,
+        121,
+        198,
+        235,
+        257,
+        334
+    ],
+    "activityled": [
+        120,
+        367
+    ],
+    "actuator": [
+        98,
+        101
+    ],
+    "ad": [
+        2
+    ],
+    "adapt": [
+        319,
+        328,
+        332
+    ],
+    "adaptation": [
+        52,
+        56
+    ],
+    "adaptive": [
+        55,
+        102,
+        182,
+        207,
+        214,
+        215,
+        268,
+        312,
+        324
+    ],
+    "adaptivity": [
+        53,
+        54,
+        57,
+        58
+    ],
+    "adolescent": [
+        185,
+        189,
+        192,
+        200,
+        221
+    ],
+    "adult": [
+        140,
+        312
+    ],
+    "advance": [
+        170
+    ],
+    "adversarial": [
+        124,
+        135
+    ],
+    "aerospace": [
+        307,
+        310
+    ],
+    "affect": [
+        317,
+        320,
+        323
+    ],
+    "affectaware": [
+        313,
+        314,
+        317
+    ],
+    "affective": [
+        314,
+        315,
+        316,
+        319,
+        324,
+        330,
+        331,
+        332
+    ],
+    "affine": [
+        95
+    ],
+    "agent": [
+        77,
+        174,
+        175,
+        176,
+        236,
+        237,
+        335,
+        370
+    ],
+    "agentbased": [
+        61,
+        79
+    ],
+    "agentsbased": [
+        65
+    ],
+    "aggregate": [
+        273,
+        287,
+        288,
+        289,
+        291,
+        292,
+        296
+    ],
+    "aggressive": [
+        265
+    ],
+    "ahvaz": [
+        167
+    ],
+    "aint": [
+        318
+    ],
+    "air": [
+        385
+    ],
+    "algorithm": [
+        39,
+        49,
+        128,
+        144,
+        264,
+        266,
+        267,
+        269,
+        270,
+        272,
+        273,
+        276,
+        279,
+        287,
+        375
+    ],
+    "algorithmbased": [
+        286
+    ],
+    "algorithmsbased": [
+        288,
+        290
+    ],
+    "alignment": [
+        119
+    ],
+    "allocation": [
+        61,
+        65
+    ],
+    "amadl": [
+        323
+    ],
+    "among": [
+        141,
+        365
+    ],
+    "amongst": [
+        205
+    ],
+    "analogue": [
+        24
+    ],
+    "analysis": [
+        6,
+        8,
+        9,
+        87,
+        88,
+        90,
+        101,
+        114,
+        127,
+        147,
+        152,
+        153,
+        155,
+        164,
+        252,
+        306,
+        346,
+        381
+    ],
+    "analytics": [
+        130,
+        188,
+        247
+    ],
+    "android": [
+        115,
+        382
+    ],
+    "annual": [
+        167
+    ],
+    "anomaly": [
+        258
+    ],
+    "anxiety": [
+        142
+    ],
+    "aodv": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "applicability": [
+        384
+    ],
+    "application": [
+        26,
+        29,
+        35,
+        36,
+        110,
+        114,
+        146,
+        148,
+        207,
+        219,
+        223,
+        259,
+        262,
+        263,
+        276,
+        305,
+        307,
+        381
+    ],
+    "applications\u2014thermal": [
+        310
+    ],
+    "apply": [
+        264,
+        272
+    ],
+    "approach": [
+        66,
+        74,
+        78,
+        79,
+        83,
+        85,
+        89,
+        98,
+        104,
+        105,
+        120,
+        121,
+        125,
+        126,
+        185,
+        189,
+        194,
+        195,
+        203,
+        208,
+        211,
+        220,
+        221,
+        229,
+        294,
+        342
+    ],
+    "approximate": [
+        82,
+        146,
+        155
+    ],
+    "approximation": [
+        156,
+        163,
+        273,
+        287,
+        288,
+        289,
+        291,
+        292,
+        296
+    ],
+    "architecture": [
+        33,
+        63,
+        67,
+        72,
+        238
+    ],
+    "arithmetic": [
+        108
+    ],
+    "artefact": [
+        111,
+        377
+    ],
+    "artificial": [
+        95,
+        97,
+        99,
+        279,
+        286
+    ],
+    "assess": [
+        122,
+        162,
+        195
+    ],
+    "assessment": [
+        119,
+        133,
+        151,
+        220,
+        322,
+        369
+    ],
+    "asset": [
+        153,
+        154
+    ],
+    "assist": [
+        362
+    ],
+    "assistive": [
+        229
+    ],
+    "attack": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        10,
+        11,
+        172
+    ],
+    "attentiongating": [
+        238
+    ],
+    "attitude": [
+        82
+    ],
+    "attribute": [
+        184
+    ],
+    "auditable": [
+        113,
+        378
+    ],
+    "auditory": [
+        345
+    ],
+    "audix": [
+        345
+    ],
+    "augment": [
+        308
+    ],
+    "author": [
+        214,
+        215
+    ],
+    "autism": [
+        321,
+        322,
+        335,
+        336
+    ],
+    "autistic": [
+        338
+    ],
+    "autoencoder": [
+        235
+    ],
+    "autoencoders": [
+        232
+    ],
+    "automate": [
+        127,
+        145,
+        374
+    ],
+    "automaton": [
+        74
+    ],
+    "autonomous": [
+        227
+    ],
+    "availability": [
+        44,
+        49,
+        164
+    ],
+    "avoidance": [
+        100
+    ],
+    "awareness": [
+        193,
+        203
+    ],
+    "axial": [
+        354
+    ],
+    "azizdiffie": [
+        11
+    ],
+    "background": [
+        340
+    ],
+    "bacterial": [
+        274,
+        278,
+        280
+    ],
+    "balance": [
+        182
+    ],
+    "bar": [
+        83,
+        85,
+        87,
+        88,
+        89
+    ],
+    "base": [
+        24,
+        55,
+        94,
+        176,
+        235,
+        242,
+        247,
+        248,
+        258,
+        260,
+        261,
+        262,
+        265,
+        278,
+        304,
+        324,
+        370
+    ],
+    "basis": [
+        144,
+        156,
+        364
+    ],
+    "bayesian": [
+        132,
+        146,
+        152,
+        169,
+        171,
+        342
+    ],
+    "bee": [
+        279,
+        286
+    ],
+    "behaviour": [
+        131,
+        300,
+        317,
+        363
+    ],
+    "behavioural": [
+        130,
+        183
+    ],
+    "bek": [
+        353
+    ],
+    "benefit": [
+        321
+    ],
+    "bgqos": [
+        25
+    ],
+    "big": [
+        129
+    ],
+    "bioinspired": [
+        276,
+        284
+    ],
+    "blackhole": [
+        3
+    ],
+    "blasius": [
+        350,
+        355
+    ],
+    "board": [
+        180
+    ],
+    "bound": [
+        50,
+        51
+    ],
+    "boundary": [
+        143,
+        145,
+        348,
+        350,
+        355,
+        358
+    ],
+    "boundarylayer": [
+        349,
+        351,
+        352,
+        353,
+        354,
+        356
+    ],
+    "brain": [
+        198
+    ],
+    "breakage": [
+        88
+    ],
+    "breakthrough": [
+        160
+    ],
+    "bridging": [
+        380
+    ],
+    "broad": [
+        356
+    ],
+    "broken": [
+        83,
+        85,
+        87,
+        89
+    ],
+    "building": [
+        122,
+        126,
+        300,
+        363,
+        369
+    ],
+    "business": [
+        25,
+        213,
+        250
+    ],
+    "cabin": [
+        376,
+        383,
+        384,
+        386
+    ],
+    "calculate": [
+        49
+    ],
+    "calibration": [
+        302
+    ],
+    "cap": [
+        14
+    ],
+    "car": [
+        384,
+        385,
+        386
+    ],
+    "carbon": [
+        160
+    ],
+    "care": [
+        142
+    ],
+    "career": [
+        192,
+        200,
+        208
+    ],
+    "carlo": [
+        22
+    ],
+    "cascade": [
+        62,
+        101
+    ],
+    "case": [
+        133,
+        192,
+        200,
+        263,
+        282,
+        380
+    ],
+    "cclo": [
+        216
+    ],
+    "cdse": [
+        106
+    ],
+    "ceiling": [
+        125
+    ],
+    "center": [
+        256
+    ],
+    "central": [
+        136
+    ],
+    "centrifugal": [
+        354
+    ],
+    "certificateless": [
+        107
+    ],
+    "challenge": [
+        159,
+        216,
+        371
+    ],
+    "change": [
+        111,
+        183,
+        187,
+        316,
+        377
+    ],
+    "changepoint": [
+        160,
+        167
+    ],
+    "channel": [
+        12,
+        13,
+        14,
+        15,
+        20,
+        213,
+        347
+    ],
+    "character": [
+        297
+    ],
+    "characterisation": [
+        87,
+        106
+    ],
+    "characteristic": [
+        340
+    ],
+    "characterization": [
+        157
+    ],
+    "chemoinspired": [
+        273
+    ],
+    "child": [
+        336,
+        375
+    ],
+    "chinese": [
+        248
+    ],
+    "chip": [
+        34
+    ],
+    "choice": [
+        344
+    ],
+    "circuit": [
+        47
+    ],
+    "circular": [
+        122,
+        126
+    ],
+    "city": [
+        134
+    ],
+    "classification": [
+        131,
+        145,
+        235,
+        248,
+        268,
+        282,
+        364
+    ],
+    "classroom": [
+        206,
+        211,
+        333
+    ],
+    "climate": [
+        159,
+        374
+    ],
+    "clinical": [
+        128
+    ],
+    "cloud": [
+        66,
+        247,
+        256
+    ],
+    "cluster": [
+        268,
+        274,
+        275,
+        276,
+        281
+    ],
+    "cmeans": [
+        276
+    ],
+    "code": [
+        194,
+        361
+    ],
+    "codesign": [
+        373
+    ],
+    "cognitive": [
+        313
+    ],
+    "coherent": [
+        204
+    ],
+    "cold": [
+        133
+    ],
+    "collaboration": [
+        213
+    ],
+    "collaborative": [
+        92,
+        103,
+        120,
+        216,
+        365,
+        370
+    ],
+    "collapse": [
+        47
+    ],
+    "collective": [
+        226
+    ],
+    "colliculus": [
+        239
+    ],
+    "colony": [
+        279,
+        286
+    ],
+    "combination": [
+        281
+    ],
+    "comfort": [
+        376,
+        384,
+        385,
+        386
+    ],
+    "common": [
+        297
+    ],
+    "communicate": [
+        372
+    ],
+    "communication": [
+        13,
+        15,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24
+    ],
+    "community": [
+        213,
+        245,
+        249
+    ],
+    "communitybased": [
+        251,
+        254
+    ],
+    "companion": [
+        234
+    ],
+    "comparative": [
+        275
+    ],
+    "comparison": [
+        5,
+        82,
+        118
+    ],
+    "complexity": [
+        226
+    ],
+    "component": [
+        86,
+        88,
+        122,
+        126
+    ],
+    "composition": [
+        71
+    ],
+    "compressible": [
+        356
+    ],
+    "compression": [
+        103
+    ],
+    "computational": [
+        106,
+        137,
+        151,
+        370
+    ],
+    "compute": [
+        247,
+        252,
+        367,
+        371,
+        373
+    ],
+    "computer": [
+        57,
+        120
+    ],
+    "concealment": [
+        73
+    ],
+    "concept": [
+        328
+    ],
+    "concern": [
+        263
+    ],
+    "concrete": [
+        389
+    ],
+    "conditioning": [
+        385
+    ],
+    "cone": [
+        354,
+        356
+    ],
+    "configuration": [
+        250
+    ],
+    "consideration": [
+        137
+    ],
+    "constrain": [
+        95,
+        99
+    ],
+    "constraint": [
+        96,
+        100
+    ],
+    "construct": [
+        132
+    ],
+    "construction": [
+        107
+    ],
+    "constructive": [
+        119,
+        318
+    ],
+    "consumption": [
+        50,
+        258
+    ],
+    "contactors": [
+        160
+    ],
+    "content": [
+        75,
+        196,
+        291
+    ],
+    "contest": [
+        176
+    ],
+    "continuous": [
+        303
+    ],
+    "contribute": [
+        332
+    ],
+    "control": [
+        82,
+        95,
+        97,
+        99,
+        103,
+        374,
+        376,
+        385,
+        386
+    ],
+    "controller": [
+        102
+    ],
+    "convey": [
+        187
+    ],
+    "convolutional": [
+        32,
+        232
+    ],
+    "cool": [
+        300,
+        363
+    ],
+    "coordinatefree": [
+        82
+    ],
+    "copula": [
+        149,
+        155,
+        156
+    ],
+    "copulabased": [
+        133
+    ],
+    "corporate": [
+        112
+    ],
+    "correction": [
+        31
+    ],
+    "corrosion": [
+        389,
+        391,
+        394,
+        395
+    ],
+    "cortex": [
+        240
+    ],
+    "cost": [
+        129
+    ],
+    "counterdiscriminator": [
+        41
+    ],
+    "couple": [
+        162,
+        168,
+        265,
+        295
+    ],
+    "coventry": [
+        263
+    ],
+    "covid19": [
+        125,
+        128,
+        141,
+        142
+    ],
+    "cps": [
+        247
+    ],
+    "create": [
+        204
+    ],
+    "creative": [
+        367,
+        387
+    ],
+    "crime": [
+        147
+    ],
+    "critical": [
+        82,
+        262
+    ],
+    "cross": [
+        124
+    ],
+    "crosslayer": [
+        0
+    ],
+    "cultural": [
+        205
+    ],
+    "curiosity": [
+        387
+    ],
+    "current": [
+        86
+    ],
+    "curve": [
+        110,
+        359
+    ],
+    "customer": [
+        388
+    ],
+    "cyclist": [
+        227,
+        228
+    ],
+    "data": [
+        42,
+        43,
+        48,
+        73,
+        80,
+        129,
+        132,
+        147,
+        186,
+        188,
+        226,
+        228,
+        247,
+        256,
+        258,
+        271,
+        272,
+        274,
+        275,
+        286,
+        323,
+        343
+    ],
+    "database": [
+        81,
+        295,
+        343,
+        344
+    ],
+    "databased": [
+        224,
+        225
+    ],
+    "datacentric": [
+        250
+    ],
+    "dcoofdm": [
+        15
+    ],
+    "decision": [
+        77,
+        165,
+        166,
+        181
+    ],
+    "decisionmaking": [
+        128
+    ],
+    "deep": [
+        24,
+        131,
+        229,
+        230,
+        231,
+        232,
+        233,
+        235,
+        246,
+        367
+    ],
+    "deficit": [
+        322
+    ],
+    "define": [
+        217
+    ],
+    "delayed": [
+        195
+    ],
+    "demand": [
+        313
+    ],
+    "demanddriven": [
+        250
+    ],
+    "demapstaffordshire": [
+        388
+    ],
+    "democratise": [
+        226
+    ],
+    "demonstration": [
+        23,
+        243
+    ],
+    "depression": [
+        140,
+        142
+    ],
+    "derive": [
+        149
+    ],
+    "design": [
+        24,
+        46,
+        55,
+        78,
+        79,
+        120,
+        184,
+        191,
+        197,
+        202,
+        312,
+        336,
+        338,
+        361,
+        371,
+        387
+    ],
+    "detection": [
+        83,
+        86,
+        160,
+        167,
+        227,
+        228,
+        245,
+        258,
+        389,
+        391,
+        392,
+        393,
+        394,
+        395
+    ],
+    "detector": [
+        43
+    ],
+    "deteriorate": [
+        153,
+        154
+    ],
+    "determine": [
+        279
+    ],
+    "develop": [
+        122,
+        126,
+        128,
+        183,
+        205,
+        335,
+        336
+    ],
+    "developer": [
+        365
+    ],
+    "development": [
+        70,
+        84,
+        104,
+        105,
+        119,
+        191,
+        211,
+        213,
+        259,
+        261,
+        365,
+        368
+    ],
+    "device": [
+        115,
+        204,
+        382
+    ],
+    "dhp": [
+        110
+    ],
+    "dhtbased": [
+        68
+    ],
+    "diagnosis": [
+        85,
+        87,
+        89,
+        364
+    ],
+    "diagram": [
+        340
+    ],
+    "differ": [
+        313
+    ],
+    "different": [
+        291
+    ],
+    "differential": [
+        267,
+        274,
+        278,
+        281,
+        287,
+        291
+    ],
+    "difficulty": [
+        182
+    ],
+    "digital": [
+        36,
+        42,
+        43,
+        112,
+        113,
+        119,
+        134,
+        192,
+        200,
+        205,
+        378
+    ],
+    "dihedral": [
+        244
+    ],
+    "dimensionality": [
+        264,
+        267,
+        295
+    ],
+    "direct": [
+        1
+    ],
+    "discovery": [
+        249
+    ],
+    "discrete": [
+        148,
+        265
+    ],
+    "discretization": [
+        270
+    ],
+    "discrimination": [
+        36,
+        37,
+        38,
+        39,
+        48,
+        345
+    ],
+    "disease": [
+        139,
+        364
+    ],
+    "disk": [
+        349,
+        357,
+        358,
+        359
+    ],
+    "disorder": [
+        321,
+        322,
+        335
+    ],
+    "display": [
+        340,
+        342,
+        343
+    ],
+    "distance": [
+        272,
+        278,
+        279,
+        280,
+        281,
+        283,
+        286,
+        290,
+        297,
+        298
+    ],
+    "distribute": [
+        72,
+        73,
+        249,
+        366
+    ],
+    "distribution": [
+        148,
+        154,
+        156,
+        163,
+        303
+    ],
+    "disturbance": [
+        141,
+        359
+    ],
+    "diver": [
+        24
+    ],
+    "diversity": [
+        14,
+        15,
+        16,
+        19
+    ],
+    "dlp": [
+        110
+    ],
+    "dna": [
+        274
+    ],
+    "document": [
+        80,
+        346
+    ],
+    "domain": [
+        48
+    ],
+    "dribble": [
+        175
+    ],
+    "drive": [
+        127
+    ],
+    "driven": [
+        70,
+        385
+    ],
+    "dual": [
+        82,
+        131
+    ],
+    "dualcareer": [
+        179
+    ],
+    "due": [
+        356,
+        357
+    ],
+    "duration": [
+        125,
+        133
+    ],
+    "dynamic": [
+        4,
+        12,
+        13,
+        65,
+        101,
+        188,
+        256
+    ],
+    "early": [
+        21,
+        149
+    ],
+    "ebusiness": [
+        255
+    ],
+    "ecommerce": [
+        218
+    ],
+    "economic": [
+        122
+    ],
+    "economy": [
+        122,
+        126
+    ],
+    "edge": [
+        301
+    ],
+    "edit": [
+        283,
+        290,
+        297,
+        298
+    ],
+    "editorial": [
+        255
+    ],
+    "education": [
+        184,
+        211,
+        236
+    ],
+    "educational": [
+        186,
+        224,
+        225
+    ],
+    "effect": [
+        318,
+        340,
+        344,
+        351,
+        355
+    ],
+    "effectiveness": [
+        53
+    ],
+    "efficiency": [
+        183
+    ],
+    "efficient": [
+        108
+    ],
+    "elearning": [
+        53,
+        54,
+        55,
+        58,
+        62,
+        75
+    ],
+    "elearninglearning": [
+        210
+    ],
+    "electrical": [
+        86,
+        90
+    ],
+    "electromagnetic": [
+        389
+    ],
+    "element": [
+        183,
+        362
+    ],
+    "elementary": [
+        333
+    ],
+    "elicitation": [
+        152,
+        181
+    ],
+    "elliptic": [
+        110
+    ],
+    "embed": [
+        143,
+        216,
+        246
+    ],
+    "embody": [
+        335
+    ],
+    "embolism": [
+        125
+    ],
+    "emergency": [
+        21
+    ],
+    "emergent": [
+        238
+    ],
+    "emotion": [
+        229,
+        232,
+        233,
+        234,
+        237
+    ],
+    "emotional": [
+        236
+    ],
+    "empirical": [
+        52
+    ],
+    "employ": [
+        332
+    ],
+    "empowerment": [
+        216
+    ],
+    "enact": [
+        185
+    ],
+    "encapsulate": [
+        222
+    ],
+    "encode": [
+        269
+    ],
+    "end": [
+        367
+    ],
+    "energy": [
+        183,
+        258,
+        300,
+        363
+    ],
+    "energyefficiency": [
+        256
+    ],
+    "enforce": [
+        354
+    ],
+    "engagement": [
+        213,
+        314,
+        362,
+        387
+    ],
+    "engine": [
+        219,
+        307,
+        309,
+        310
+    ],
+    "engineering": [
+        78,
+        79
+    ],
+    "enhance": [
+        292,
+        314
+    ],
+    "enhancement": [
+        59,
+        375
+    ],
+    "enough": [
+        87
+    ],
+    "ensurvival": [
+        178
+    ],
+    "entrepreneurship": [
+        179
+    ],
+    "environment": [
+        26,
+        68,
+        91,
+        93,
+        94,
+        115,
+        198,
+        218,
+        224,
+        225,
+        320,
+        327,
+        368,
+        382,
+        384
+    ],
+    "environmental": [
+        178,
+        190,
+        201,
+        308
+    ],
+    "episode": [
+        133
+    ],
+    "equivalence": [
+        110
+    ],
+    "equivalent": [
+        383,
+        385
+    ],
+    "erst": [
+        341
+    ],
+    "essential": [
+        184
+    ],
+    "estimate": [
+        383,
+        385
+    ],
+    "estimation": [
+        82,
+        227
+    ],
+    "ethnographically": [
+        370
+    ],
+    "evaluation": [
+        1,
+        9,
+        45,
+        50,
+        51,
+        52,
+        53,
+        55,
+        84,
+        145,
+        152,
+        195,
+        224,
+        225,
+        268,
+        312,
+        341
+    ],
+    "evapotranspiration": [
+        158
+    ],
+    "everand": [
+        194
+    ],
+    "everyday": [
+        337
+    ],
+    "evidencebased": [
+        189
+    ],
+    "evolution": [
+        267,
+        274,
+        278,
+        287,
+        291
+    ],
+    "evolutionary": [
+        77
+    ],
+    "evolutionbased": [
+        281
+    ],
+    "evoting": [
+        67,
+        71
+    ],
+    "examine": [
+        112
+    ],
+    "exchange": [
+        163,
+        213,
+        365
+    ],
+    "exercise": [
+        138,
+        345
+    ],
+    "exhibition": [
+        311
+    ],
+    "expensive": [
+        284
+    ],
+    "experience": [
+        159,
+        177,
+        207,
+        210,
+        213,
+        338,
+        360
+    ],
+    "experimental": [
+        268
+    ],
+    "exploration": [
+        91,
+        94,
+        329
+    ],
+    "exploratory": [
+        316,
+        320,
+        327
+    ],
+    "explore": [
+        315,
+        316,
+        320,
+        328,
+        329,
+        333
+    ],
+    "exponential": [
+        148
+    ],
+    "expression": [
+        229,
+        230,
+        231,
+        232,
+        234,
+        275
+    ],
+    "extend": [
+        283,
+        297,
+        298
+    ],
+    "extension": [
+        27
+    ],
+    "external": [
+        315,
+        341
+    ],
+    "externalize": [
+        220
+    ],
+    "extraction": [
+        83,
+        86,
+        366
+    ],
+    "face": [
+        141,
+        233
+    ],
+    "facial": [
+        229,
+        230,
+        231,
+        232,
+        234
+    ],
+    "facilitate": [
+        196
+    ],
+    "factorization": [
+        246,
+        249,
+        254
+    ],
+    "fading": [
+        14
+    ],
+    "failure": [
+        49
+    ],
+    "family": [
+        353
+    ],
+    "fast": [
+        293
+    ],
+    "fastanddirty": [
+        295
+    ],
+    "faster": [
+        296
+    ],
+    "fatigue": [
+        138
+    ],
+    "fault": [
+        47,
+        86,
+        90
+    ],
+    "feature": [
+        184
+    ],
+    "feed": [
+        149
+    ],
+    "feedback": [
+        204,
+        220,
+        312,
+        314,
+        317,
+        319,
+        320,
+        324,
+        327,
+        330,
+        331
+    ],
+    "fem": [
+        85,
+        89,
+        90
+    ],
+    "field": [
+        305
+    ],
+    "fieldmap": [
+        305
+    ],
+    "file": [
+        66,
+        68
+    ],
+    "filter": [
+        82,
+        293,
+        295
+    ],
+    "filterbased": [
+        38
+    ],
+    "financial": [
+        146,
+        150
+    ],
+    "first": [
+        136,
+        367
+    ],
+    "fit": [
+        37
+    ],
+    "flat": [
+        352
+    ],
+    "flexible": [
+        250,
+        260,
+        269
+    ],
+    "flood": [
+        7,
+        157
+    ],
+    "flow": [
+        143,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        356,
+        357,
+        359
+    ],
+    "flow\u2014exact": [
+        347
+    ],
+    "fluid": [
+        348,
+        353,
+        357,
+        358,
+        359
+    ],
+    "flux": [
+        83,
+        88,
+        90,
+        176
+    ],
+    "focus": [
+        201
+    ],
+    "fog": [
+        247,
+        252,
+        253,
+        299
+    ],
+    "forage": [
+        274,
+        278,
+        280
+    ],
+    "forensic": [
+        111,
+        114,
+        377,
+        381
+    ],
+    "forensics": [
+        112,
+        113,
+        119,
+        378
+    ],
+    "formal": [
+        78
+    ],
+    "foster": [
+        197,
+        312
+    ],
+    "foundation": [
+        188
+    ],
+    "fourier": [
+        85
+    ],
+    "fpga": [
+        30,
+        31
+    ],
+    "fpgabased": [
+        29,
+        35
+    ],
+    "fpgacpu": [
+        34
+    ],
+    "fraction": [
+        318,
+        327,
+        328
+    ],
+    "framework": [
+        122,
+        126,
+        151,
+        191,
+        219,
+        257,
+        305
+    ],
+    "free": [
+        354
+    ],
+    "frequency": [
+        24,
+        48,
+        83,
+        86,
+        297
+    ],
+    "friend": [
+        251,
+        254
+    ],
+    "frontend": [
+        81
+    ],
+    "frontline": [
+        142
+    ],
+    "fso": [
+        19
+    ],
+    "function": [
+        144,
+        149,
+        156,
+        364
+    ],
+    "functional": [
+        136
+    ],
+    "future": [
+        130,
+        255,
+        369
+    ],
+    "fuzzy": [
+        276
+    ],
+    "game": [
+        177,
+        178,
+        179,
+        180,
+        182,
+        184,
+        185,
+        187,
+        190,
+        191,
+        192,
+        193,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        205,
+        206,
+        207,
+        209,
+        210,
+        211,
+        214,
+        215,
+        217,
+        219,
+        220,
+        222,
+        223,
+        372,
+        387
+    ],
+    "gamebased": [
+        189,
+        194,
+        195,
+        203,
+        208,
+        221
+    ],
+    "gamer": [
+        360
+    ],
+    "gamified": [
+        183
+    ],
+    "gamma": [
+        36,
+        38,
+        39,
+        41
+    ],
+    "gas": [
+        306,
+        307,
+        309,
+        310
+    ],
+    "gateway": [
+        253,
+        299
+    ],
+    "gaussian": [
+        82,
+        127,
+        145,
+        149,
+        164
+    ],
+    "gdpr": [
+        112
+    ],
+    "gene": [
+        132,
+        275
+    ],
+    "general": [
+        44
+    ],
+    "generalise": [
+        357
+    ],
+    "generalization": [
+        248
+    ],
+    "generalizedgamma": [
+        14
+    ],
+    "generation": [
+        47,
+        124,
+        135,
+        172
+    ],
+    "generative": [
+        124,
+        135,
+        240
+    ],
+    "generic": [
+        107
+    ],
+    "genetic": [
+        144,
+        266,
+        269,
+        270,
+        272,
+        273,
+        279,
+        287,
+        288,
+        290
+    ],
+    "geodesic": [
+        96
+    ],
+    "geometrybased": [
+        20
+    ],
+    "global": [
+        226
+    ],
+    "go": [
+        333
+    ],
+    "gradient": [
+        33
+    ],
+    "gram": [
+        286
+    ],
+    "graph": [
+        252
+    ],
+    "graphbased": [
+        316
+    ],
+    "graphical": [
+        343
+    ],
+    "gratification": [
+        195
+    ],
+    "greencu": [
+        190
+    ],
+    "grid": [
+        25,
+        26
+    ],
+    "gridenabled": [
+        72
+    ],
+    "gridsim": [
+        27
+    ],
+    "group": [
+        121,
+        244
+    ],
+    "growth": [
+        149,
+        201
+    ],
+    "gsm": [
+        116
+    ],
+    "guidance": [
+        192,
+        200,
+        208,
+        221
+    ],
+    "guide": [
+        220
+    ],
+    "haar": [
+        271
+    ],
+    "handle": [
+        284
+    ],
+    "hardware": [
+        32
+    ],
+    "headlight": [
+        12
+    ],
+    "health": [
+        180
+    ],
+    "healthcare": [
+        142,
+        223
+    ],
+    "healthy": [
+        185
+    ],
+    "heart": [
+        364
+    ],
+    "heat": [
+        348,
+        350
+    ],
+    "heating": [
+        385
+    ],
+    "helicopter": [
+        103
+    ],
+    "help": [
+        343
+    ],
+    "herbert": [
+        212
+    ],
+    "heterogeneous": [
+        30,
+        31,
+        32,
+        34,
+        173
+    ],
+    "hierarchical": [
+        274
+    ],
+    "high": [
+        26,
+        184
+    ],
+    "highfidelity": [
+        219
+    ],
+    "highly": [
+        129
+    ],
+    "hisql": [
+        81
+    ],
+    "histogram": [
+        33
+    ],
+    "historical": [
+        81
+    ],
+    "hoc": [
+        2
+    ],
+    "human": [
+        235,
+        362
+    ],
+    "humanrobotic": [
+        237
+    ],
+    "humid": [
+        159
+    ],
+    "hvac": [
+        385
+    ],
+    "hybrid": [
+        63,
+        64,
+        229,
+        237,
+        240,
+        274,
+        278
+    ],
+    "hybridization": [
+        280
+    ],
+    "hydraulic": [
+        302
+    ],
+    "hydrometric": [
+        167
+    ],
+    "hypermedia": [
+        207
+    ],
+    "ict": [
+        312
+    ],
+    "idea": [
+        336,
+        338
+    ],
+    "identification": [
+        145
+    ],
+    "identitybased": [
+        107
+    ],
+    "ii": [
+        272
+    ],
+    "illumination": [
+        230
+    ],
+    "illusion": [
+        285
+    ],
+    "image": [
+        28,
+        29,
+        35,
+        103,
+        234
+    ],
+    "imbalanced": [
+        248
+    ],
+    "immigrant": [
+        205
+    ],
+    "impact": [
+        12,
+        57,
+        69,
+        138,
+        158,
+        313,
+        320,
+        330,
+        331
+    ],
+    "implement": [
+        159,
+        182,
+        213,
+        375
+    ],
+    "implementation": [
+        46,
+        76,
+        250
+    ],
+    "implication": [
+        111,
+        223,
+        361,
+        377
+    ],
+    "important": [
+        264
+    ],
+    "imprecise": [
+        152
+    ],
+    "improve": [
+        34,
+        248,
+        249,
+        302,
+        314,
+        317,
+        379
+    ],
+    "improvement": [
+        40,
+        102
+    ],
+    "incidental": [
+        204
+    ],
+    "inclined": [
+        352
+    ],
+    "incomplete": [
+        171
+    ],
+    "increase": [
+        188
+    ],
+    "index": [
+        163,
+        277
+    ],
+    "indicator": [
+        204
+    ],
+    "individual": [
+        328
+    ],
+    "indonesian": [
+        300,
+        363
+    ],
+    "indoor": [
+        16,
+        18
+    ],
+    "induction": [
+        83,
+        85,
+        86,
+        88,
+        89,
+        90
+    ],
+    "industry": [
+        252
+    ],
+    "infant": [
+        149
+    ],
+    "inferior": [
+        239
+    ],
+    "influence": [
+        183
+    ],
+    "inform": [
+        370
+    ],
+    "information": [
+        64,
+        118,
+        144,
+        146,
+        157,
+        162,
+        165,
+        166,
+        168,
+        291,
+        312,
+        340,
+        342,
+        365,
+        366,
+        368
+    ],
+    "informationbased": [
+        386
+    ],
+    "informationcontent": [
+        289
+    ],
+    "infrastructure": [
+        153
+    ],
+    "innovation": [
+        213
+    ],
+    "inpatient": [
+        125,
+        128
+    ],
+    "inquirybased": [
+        177,
+        197,
+        202
+    ],
+    "inquisition": [
+        304
+    ],
+    "insomnia": [
+        123
+    ],
+    "instability": [
+        349,
+        354
+    ],
+    "instancetransfer": [
+        248
+    ],
+    "instruction": [
+        243
+    ],
+    "instrumentation": [
+        310
+    ],
+    "integrate": [
+        151,
+        206,
+        207,
+        209,
+        210,
+        243
+    ],
+    "integration": [
+        196
+    ],
+    "intelligence": [
+        226
+    ],
+    "intelligent": [
+        257,
+        329
+    ],
+    "intensity": [
+        133
+    ],
+    "intent": [
+        227
+    ],
+    "interaction": [
+        61,
+        237,
+        318
+    ],
+    "interactive": [
+        248
+    ],
+    "interactivity": [
+        216
+    ],
+    "interface": [
+        338
+    ],
+    "international": [
+        323,
+        371
+    ],
+    "internet": [
+        301
+    ],
+    "interoperability": [
+        70
+    ],
+    "interpolation": [
+        129
+    ],
+    "intervention": [
+        189,
+        334
+    ],
+    "introduction": [
+        367
+    ],
+    "intruder": [
+        18
+    ],
+    "intuitive": [
+        220
+    ],
+    "intuitiveguided": [
+        196
+    ],
+    "invariant": [
+        230
+    ],
+    "investigate": [
+        116,
+        318,
+        360,
+        368
+    ],
+    "investigation": [
+        54,
+        111,
+        377
+    ],
+    "ip": [
+        213
+    ],
+    "iranian": [
+        140
+    ],
+    "irrigation": [
+        159
+    ],
+    "isa": [
+        151
+    ],
+    "issue": [
+        193,
+        201,
+        203
+    ],
+    "iubicom": [
+        371
+    ],
+    "job": [
+        65
+    ],
+    "joint": [
+        254
+    ],
+    "journey": [
+        204
+    ],
+    "judgement": [
+        152
+    ],
+    "karun": [
+        167
+    ],
+    "keep": [
+        113,
+        378
+    ],
+    "kems": [
+        107
+    ],
+    "kernelbased": [
+        137
+    ],
+    "kinodynamic": [
+        96,
+        100
+    ],
+    "kmeans": [
+        281
+    ],
+    "know": [
+        372
+    ],
+    "knowledge": [
+        52,
+        55,
+        187,
+        328,
+        340
+    ],
+    "knowledgebased": [
+        345,
+        346
+    ],
+    "knowledgeofexternalrepresentations": [
+        344
+    ],
+    "lan": [
+        9
+    ],
+    "language": [
+        174,
+        242
+    ],
+    "large": [
+        171
+    ],
+    "largescale": [
+        251,
+        366
+    ],
+    "lash": [
+        109
+    ],
+    "layer": [
+        143,
+        348,
+        350,
+        355,
+        358
+    ],
+    "lbe": [
+        191
+    ],
+    "ldpccoded": [
+        14
+    ],
+    "lead": [
+        119,
+        121,
+        257
+    ],
+    "leakage": [
+        114,
+        381
+    ],
+    "learn": [
+        52,
+        54,
+        55,
+        56,
+        57,
+        59,
+        60,
+        119,
+        120,
+        121,
+        128,
+        169,
+        172,
+        177,
+        184,
+        188,
+        194,
+        196,
+        197,
+        204,
+        205,
+        207,
+        209,
+        216,
+        217,
+        220,
+        222,
+        229,
+        230,
+        231,
+        233,
+        241,
+        242,
+        243,
+        247,
+        257,
+        313,
+        314,
+        315,
+        316,
+        317,
+        323,
+        327,
+        329,
+        334,
+        375,
+        383
+    ],
+    "learner": [
+        55,
+        321,
+        322
+    ],
+    "learningbased": [
+        376
+    ],
+    "leg": [
+        139
+    ],
+    "legendre": [
+        156
+    ],
+    "lesson": [
+        202
+    ],
+    "level": [
+        26,
+        52,
+        327
+    ],
+    "leverage": [
+        362
+    ],
+    "lifelong": [
+        113,
+        378
+    ],
+    "lifestyle": [
+        185,
+        187,
+        189,
+        369
+    ],
+    "lifetime": [
+        50,
+        51,
+        154
+    ],
+    "light": [
+        13,
+        15,
+        16,
+        18,
+        20,
+        23,
+        24
+    ],
+    "lightbulb": [
+        324
+    ],
+    "limit": [
+        136
+    ],
+    "link": [
+        184,
+        224,
+        225,
+        262
+    ],
+    "linkfailure": [
+        2
+    ],
+    "literature": [
+        180
+    ],
+    "living": [
+        362
+    ],
+    "load": [
+        76
+    ],
+    "loadbearing": [
+        122,
+        126
+    ],
+    "local": [
+        213
+    ],
+    "location": [
+        88
+    ],
+    "locationbased": [
+        191
+    ],
+    "log": [
+        113,
+        378
+    ],
+    "longitudinal": [
+        149
+    ],
+    "lookup": [
+        292
+    ],
+    "low": [
+        129
+    ],
+    "lowfrequency": [
+        389
+    ],
+    "mac": [
+        0
+    ],
+    "machine": [
+        85,
+        88,
+        89,
+        90,
+        128,
+        137,
+        172,
+        247,
+        258,
+        383
+    ],
+    "machinelearning": [
+        125
+    ],
+    "magnetohydrodynamic": [
+        143
+    ],
+    "main": [
+        163
+    ],
+    "maintenance": [
+        153,
+        154,
+        165,
+        166
+    ],
+    "make": [
+        181
+    ],
+    "malayer": [
+        133
+    ],
+    "malware": [
+        115,
+        382
+    ],
+    "manage": [
+        339
+    ],
+    "management": [
+        63,
+        68,
+        160,
+        196,
+        255,
+        257,
+        387
+    ],
+    "manet": [
+        0,
+        1,
+        3,
+        6
+    ],
+    "manufacturing": [
+        61,
+        65,
+        388
+    ],
+    "mapping": [
+        92
+    ],
+    "mass": [
+        143
+    ],
+    "math": [
+        333
+    ],
+    "mathematical": [
+        151,
+        170,
+        320
+    ],
+    "mathematics": [
+        322
+    ],
+    "matrix": [
+        246,
+        249,
+        254
+    ],
+    "matter": [
+        320
+    ],
+    "mean": [
+        49,
+        130
+    ],
+    "measure": [
+        37,
+        249
+    ],
+    "mechanic": [
+        184
+    ],
+    "mediation": [
+        69
+    ],
+    "medical": [
+        224,
+        225,
+        364
+    ],
+    "medium": [
+        143
+    ],
+    "meducator": [
+        224,
+        225
+    ],
+    "membrane": [
+        161
+    ],
+    "memory": [
+        238,
+        242
+    ],
+    "message": [
+        262
+    ],
+    "metaaffect": [
+        323
+    ],
+    "metaanalysis": [
+        123,
+        138,
+        140,
+        141,
+        180
+    ],
+    "metaapl": [
+        174
+    ],
+    "metacognitive": [
+        322
+    ],
+    "metacyber": [
+        117
+    ],
+    "metadata": [
+        217
+    ],
+    "metaheuristics": [
+        284
+    ],
+    "metaregression": [
+        140,
+        142
+    ],
+    "method": [
+        28,
+        162,
+        168,
+        198,
+        250,
+        251,
+        254,
+        268,
+        269,
+        271,
+        292,
+        296,
+        383,
+        393
+    ],
+    "metric": [
+        281,
+        298
+    ],
+    "metycoon": [
+        208
+    ],
+    "microarray": [
+        132,
+        274,
+        275
+    ],
+    "middleware": [
+        259,
+        261
+    ],
+    "migration": [
+        2
+    ],
+    "minigames": [
+        186
+    ],
+    "minimum": [
+        144,
+        146,
+        157,
+        162,
+        168,
+        280
+    ],
+    "mining": [
+        80,
+        147,
+        272,
+        301,
+        379
+    ],
+    "mixed": [
+        311
+    ],
+    "mobile": [
+        68,
+        91,
+        92,
+        93,
+        94,
+        102,
+        115,
+        187,
+        193,
+        204,
+        382
+    ],
+    "mobilecommerce": [
+        263
+    ],
+    "mode": [
+        69,
+        356
+    ],
+    "model": [
+        13,
+        20,
+        26,
+        65,
+        70,
+        95,
+        97,
+        98,
+        118,
+        121,
+        122,
+        146,
+        149,
+        150,
+        151,
+        155,
+        157,
+        162,
+        165,
+        166,
+        168,
+        170,
+        239,
+        240,
+        256,
+        266,
+        302,
+        316,
+        321,
+        332,
+        337,
+        342,
+        370,
+        380,
+        384
+    ],
+    "modular": [
+        46
+    ],
+    "modulation": [
+        24
+    ],
+    "module": [
+        244
+    ],
+    "moment": [
+        324
+    ],
+    "monitor": [
+        87
+    ],
+    "monitoring": [
+        198,
+        262,
+        303,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        322
+    ],
+    "monte": [
+        22
+    ],
+    "montgomery": [
+        108
+    ],
+    "mortality": [
+        125
+    ],
+    "motion": [
+        96
+    ],
+    "motivation": [
+        187
+    ],
+    "motor": [
+        83,
+        86,
+        240
+    ],
+    "movement": [
+        101
+    ],
+    "mttf": [
+        44
+    ],
+    "multi": [
+        2
+    ],
+    "multiagent": [
+        78,
+        173
+    ],
+    "multichannel": [
+        0,
+        2
+    ],
+    "multidisciplinary": [
+        185
+    ],
+    "multihop": [
+        23
+    ],
+    "multilayer": [
+        16
+    ],
+    "multimetric": [
+        272
+    ],
+    "multimodal": [
+        241,
+        243,
+        334
+    ],
+    "multiobjective": [
+        272,
+        275
+    ],
+    "multiparametric": [
+        99
+    ],
+    "multipath": [
+        0,
+        2
+    ],
+    "multiple": [
+        77,
+        138,
+        293,
+        339
+    ],
+    "multiprecision": [
+        32
+    ],
+    "multiprocessing": [
+        30,
+        31
+    ],
+    "multiresolution": [
+        265,
+        271,
+        277,
+        293,
+        294
+    ],
+    "multivariate": [
+        156,
+        163
+    ],
+    "multiwavelets": [
+        156
+    ],
+    "muscle": [
+        95,
+        97,
+        98,
+        99,
+        101
+    ],
+    "museum": [
+        212,
+        311
+    ],
+    "mutual": [
+        386
+    ],
+    "nanostructure": [
+        106
+    ],
+    "nao": [
+        375
+    ],
+    "natureinspired": [
+        264
+    ],
+    "navigation": [
+        91,
+        92,
+        93,
+        94
+    ],
+    "need": [
+        328
+    ],
+    "network": [
+        2,
+        16,
+        32,
+        50,
+        51,
+        59,
+        120,
+        124,
+        131,
+        132,
+        135,
+        146,
+        169,
+        171,
+        235,
+        245,
+        246,
+        251,
+        254,
+        257,
+        260,
+        261,
+        304,
+        307,
+        308,
+        364,
+        366
+    ],
+    "neural": [
+        16,
+        32,
+        131,
+        229,
+        237,
+        241
+    ],
+    "neuron": [
+        239
+    ],
+    "neurophysiological": [
+        198
+    ],
+    "neutral": [
+        359
+    ],
+    "neutron": [
+        36,
+        38,
+        39,
+        41,
+        48
+    ],
+    "neutrongammaray": [
+        37
+    ],
+    "new": [
+        11,
+        28,
+        65,
+        83,
+        86,
+        206,
+        286
+    ],
+    "newtonian": [
+        357
+    ],
+    "nmfbased": [
+        249
+    ],
+    "nmr": [
+        40,
+        44,
+        45
+    ],
+    "noise": [
+        21
+    ],
+    "nonadjacent": [
+        85,
+        89
+    ],
+    "nonconjugate": [
+        169
+    ],
+    "nondestructive": [
+        391,
+        392,
+        394,
+        395
+    ],
+    "nondominated": [
+        272
+    ],
+    "nonequilibrium": [
+        266
+    ],
+    "nonformal": [
+        59
+    ],
+    "nongaussian": [
+        132,
+        146
+    ],
+    "nonholonomic": [
+        102
+    ],
+    "nonlinear": [
+        136
+    ],
+    "nonnegative": [
+        246,
+        249,
+        254
+    ],
+    "nonnewtonian": [
+        347,
+        349,
+        351,
+        355
+    ],
+    "nonnormalized": [
+        287
+    ],
+    "normalize": [
+        290
+    ],
+    "novel": [
+        84
+    ],
+    "nurse": [
+        141
+    ],
+    "nutritional": [
+        187
+    ],
+    "obesity": [
+        199
+    ],
+    "object": [
+        60,
+        209,
+        217,
+        222,
+        375
+    ],
+    "obstacle": [
+        100
+    ],
+    "occupant": [
+        383
+    ],
+    "offtask": [
+        317
+    ],
+    "old": [
+        140
+    ],
+    "one": [
+        87
+    ],
+    "onestep": [
+        282
+    ],
+    "ongoing": [
+        159
+    ],
+    "online": [
+        251,
+        254,
+        302
+    ],
+    "on\u2010line": [
+        160
+    ],
+    "open": [
+        186,
+        213,
+        226,
+        321
+    ],
+    "operating": [
+        111,
+        377
+    ],
+    "opinion": [
+        379
+    ],
+    "optical": [
+        19,
+        22
+    ],
+    "optimal": [
+        82,
+        95,
+        99,
+        144
+    ],
+    "optimisation": [
+        127
+    ],
+    "optimise": [
+        153,
+        191
+    ],
+    "optimization": [
+        100,
+        264,
+        267,
+        272,
+        275,
+        276,
+        280,
+        282,
+        284,
+        285,
+        289
+    ],
+    "optimize": [
+        66,
+        144,
+        269,
+        273,
+        277
+    ],
+    "optimum": [
+        38
+    ],
+    "organisational": [
+        183
+    ],
+    "orient": [
+        33,
+        78
+    ],
+    "orthonormal": [
+        156
+    ],
+    "output": [
+        43
+    ],
+    "outreach": [
+        104,
+        105
+    ],
+    "overfitting": [
+        282
+    ],
+    "overlap": [
+        245
+    ],
+    "overpopulation": [
+        201
+    ],
+    "p2p": [
+        63,
+        68
+    ],
+    "pair": [
+        156
+    ],
+    "paircopula": [
+        132,
+        144,
+        157,
+        163
+    ],
+    "parallel": [
+        45
+    ],
+    "parallelism": [
+        34
+    ],
+    "parameter": [
+        162,
+        279
+    ],
+    "parameterfree": [
+        283
+    ],
+    "parametric": [
+        157
+    ],
+    "participatory": [
+        226,
+        336
+    ],
+    "particle": [
+        280,
+        289
+    ],
+    "partition": [
+        34
+    ],
+    "passage": [
+        136
+    ],
+    "password": [
+        337,
+        339
+    ],
+    "path": [
+        179
+    ],
+    "patient": [
+        138,
+        141,
+        142,
+        364
+    ],
+    "pattern": [
+        12,
+        149
+    ],
+    "pedagogical": [
+        335
+    ],
+    "pedagogicallydriven": [
+        211
+    ],
+    "pedcross": [
+        124
+    ],
+    "pedestrian": [
+        124,
+        131,
+        135,
+        227,
+        228
+    ],
+    "pegaso": [
+        199
+    ],
+    "people": [
+        321,
+        335
+    ],
+    "perceptron": [
+        16
+    ],
+    "perform": [
+        272
+    ],
+    "performance": [
+        1,
+        5,
+        6,
+        15,
+        102,
+        121,
+        145,
+        306,
+        344
+    ],
+    "personalise": [
+        207
+    ],
+    "perspective": [
+        177
+    ],
+    "phenomenographic": [
+        177
+    ],
+    "phenomenon": [
+        282
+    ],
+    "photon": [
+        48
+    ],
+    "physical": [
+        138
+    ],
+    "physician": [
+        141
+    ],
+    "piecewise": [
+        95,
+        273,
+        291
+    ],
+    "plan": [
+        202
+    ],
+    "planning": [
+        96,
+        257
+    ],
+    "plate": [
+        350,
+        352
+    ],
+    "platform": [
+        213,
+        226,
+        253,
+        299
+    ],
+    "play": [
+        187,
+        360
+    ],
+    "pneumatic": [
+        95,
+        97,
+        98,
+        99,
+        101
+    ],
+    "police": [
+        130
+    ],
+    "policy": [
+        113,
+        378
+    ],
+    "pollution": [
+        21
+    ],
+    "polynomial": [
+        156
+    ],
+    "population": [
+        266
+    ],
+    "populationbased": [
+        284
+    ],
+    "porous": [
+        143
+    ],
+    "pose": [
+        91,
+        93,
+        135
+    ],
+    "position": [
+        16,
+        386
+    ],
+    "positive": [
+        183
+    ],
+    "postgraduate": [
+        387
+    ],
+    "postural": [
+        235
+    ],
+    "potential": [
+        333
+    ],
+    "power": [
+        50
+    ],
+    "powerlaw": [
+        353,
+        358,
+        359
+    ],
+    "practical": [
+        110
+    ],
+    "practice": [
+        328
+    ],
+    "precision": [
+        16,
+        159
+    ],
+    "precursor": [
+        161
+    ],
+    "predict": [
+        125,
+        126
+    ],
+    "prediction": [
+        147
+    ],
+    "predictive": [
+        97,
+        122,
+        240
+    ],
+    "preface": [
+        325,
+        326
+    ],
+    "preference": [
+        342
+    ],
+    "pregnancy": [
+        123,
+        139
+    ],
+    "preinitialization": [
+        284
+    ],
+    "prepare": [
+        221
+    ],
+    "presentation": [
+        324
+    ],
+    "preserve": [
+        245
+    ],
+    "prevalence": [
+        123,
+        139,
+        140,
+        141,
+        142
+    ],
+    "prevent": [
+        199
+    ],
+    "preventative": [
+        130
+    ],
+    "preventive": [
+        153
+    ],
+    "principle": [
+        94
+    ],
+    "prior": [
+        152
+    ],
+    "priority": [
+        262
+    ],
+    "privacy": [
+        114,
+        381
+    ],
+    "proactive": [
+        76
+    ],
+    "probabilistic": [
+        122,
+        126,
+        133,
+        150,
+        153,
+        157,
+        164
+    ],
+    "probe": [
+        389
+    ],
+    "problem": [
+        284,
+        333
+    ],
+    "procedure": [
+        328
+    ],
+    "process": [
+        69,
+        127,
+        136,
+        145,
+        164,
+        250
+    ],
+    "processing": [
+        29,
+        33,
+        35,
+        36,
+        42,
+        43,
+        312
+    ],
+    "processor": [
+        29,
+        35
+    ],
+    "professional": [
+        104,
+        105
+    ],
+    "professionalise": [
+        113,
+        378
+    ],
+    "profile": [
+        64
+    ],
+    "program": [
+        173,
+        174,
+        260,
+        387
+    ],
+    "programmable": [
+        33
+    ],
+    "progress": [
+        204
+    ],
+    "project": [
+        387
+    ],
+    "promas": [
+        176
+    ],
+    "promote": [
+        185
+    ],
+    "property": [
+        106,
+        148
+    ],
+    "protocol": [
+        0,
+        1,
+        6,
+        9,
+        10,
+        11,
+        61
+    ],
+    "protocol\u2014model": [
+        304
+    ],
+    "prototype": [
+        306,
+        309
+    ],
+    "prototyping": [
+        305
+    ],
+    "provide": [
+        192,
+        200
+    ],
+    "provision": [
+        75
+    ],
+    "prune": [
+        265
+    ],
+    "public": [
+        203
+    ],
+    "pulmonary": [
+        125
+    ],
+    "purpose": [
+        327
+    ],
+    "qos": [
+        25,
+        74
+    ],
+    "qosdriven": [
+        26
+    ],
+    "quality": [
+        25,
+        27
+    ],
+    "quantify": [
+        351
+    ],
+    "quantization": [
+        265
+    ],
+    "query": [
+        81,
+        343,
+        344
+    ],
+    "quick": [
+        39,
+        49
+    ],
+    "radial": [
+        364
+    ],
+    "radiation": [
+        12,
+        43
+    ],
+    "raise": [
+        193,
+        203
+    ],
+    "rating": [
+        209
+    ],
+    "rational": [
+        181,
+        337
+    ],
+    "ray": [
+        36,
+        38,
+        39,
+        41
+    ],
+    "readiness": [
+        112
+    ],
+    "real": [
+        231
+    ],
+    "reality": [
+        308,
+        311
+    ],
+    "realtime": [
+        39
+    ],
+    "reason": [
+        181
+    ],
+    "receiver": [
+        1,
+        16
+    ],
+    "recent": [
+        159
+    ],
+    "recogniser": [
+        237
+    ],
+    "recognition": [
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        236,
+        333,
+        375
+    ],
+    "recommendation": [
+        62,
+        251,
+        254
+    ],
+    "record": [
+        113,
+        364,
+        378
+    ],
+    "recoverable": [
+        111,
+        377
+    ],
+    "recurrent": [
+        238
+    ],
+    "reduce": [
+        21,
+        264,
+        267,
+        293
+    ],
+    "reduction": [
+        295,
+        304
+    ],
+    "redundancy": [
+        46
+    ],
+    "reed": [
+        260
+    ],
+    "reengineering": [
+        361
+    ],
+    "reference": [
+        158
+    ],
+    "reflection": [
+        333
+    ],
+    "regime": [
+        22
+    ],
+    "region": [
+        133
+    ],
+    "regularshaped": [
+        20
+    ],
+    "regulatory": [
+        132
+    ],
+    "reinforce": [
+        181,
+        389
+    ],
+    "reinforcement": [
+        376,
+        391,
+        394,
+        395
+    ],
+    "rejection": [
+        161
+    ],
+    "relationship": [
+        211,
+        221
+    ],
+    "relevance": [
+        368
+    ],
+    "reliability": [
+        40,
+        152,
+        170
+    ],
+    "reliable": [
+        2,
+        46
+    ],
+    "representation": [
+        87,
+        238,
+        265,
+        269,
+        271,
+        315,
+        318,
+        341
+    ],
+    "representational": [
+        344
+    ],
+    "repurposing": [
+        209
+    ],
+    "require": [
+        125
+    ],
+    "rescue": [
+        84
+    ],
+    "residential": [
+        178,
+        190
+    ],
+    "resist": [
+        3,
+        7
+    ],
+    "resolution": [
+        74
+    ],
+    "resource": [
+        224,
+        225
+    ],
+    "resourcing": [
+        373
+    ],
+    "restless": [
+        139
+    ],
+    "retention": [
+        188,
+        368
+    ],
+    "retrieval": [
+        64,
+        69,
+        118,
+        265,
+        277,
+        293,
+        294,
+        361,
+        365
+    ],
+    "reusability": [
+        122,
+        126
+    ],
+    "reuse": [
+        222
+    ],
+    "review": [
+        123,
+        138,
+        139,
+        141,
+        142,
+        180,
+        198,
+        371
+    ],
+    "revisit": [
+        110
+    ],
+    "reward": [
+        136
+    ],
+    "right": [
+        343
+    ],
+    "rightsizing": [
+        256
+    ],
+    "risk": [
+        155,
+        181,
+        195
+    ],
+    "river": [
+        167
+    ],
+    "rlswed": [
+        139
+    ],
+    "road": [
+        194
+    ],
+    "robot": [
+        91,
+        92,
+        93,
+        94,
+        96,
+        100,
+        102,
+        229,
+        231,
+        241,
+        242,
+        375
+    ],
+    "robotic": [
+        84,
+        234
+    ],
+    "robotics": [
+        243
+    ],
+    "robust": [
+        67,
+        71,
+        246,
+        249,
+        328,
+        329
+    ],
+    "robustness": [
+        165,
+        166,
+        169,
+        171
+    ],
+    "rotate": [
+        349,
+        351,
+        353,
+        354,
+        356,
+        357,
+        358,
+        359
+    ],
+    "rotatingdisk": [
+        348
+    ],
+    "rotor": [
+        83,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+    ],
+    "rough": [
+        349
+    ],
+    "rout": [
+        4,
+        6,
+        8
+    ],
+    "route": [
+        2
+    ],
+    "rsa": [
+        108
+    ],
+    "rse": [
+        211
+    ],
+    "rule": [
+        260,
+        261
+    ],
+    "rulebased": [
+        259
+    ],
+    "runtime": [
+        260
+    ],
+    "rust": [
+        392,
+        393
+    ],
+    "safe": [
+        127
+    ],
+    "safety": [
+        45,
+        194,
+        262
+    ],
+    "sample": [
+        169,
+        171,
+        268
+    ],
+    "saodv": [
+        5
+    ],
+    "satellite": [
+        28
+    ],
+    "satisfaction": [
+        56
+    ],
+    "satisfy": [
+        96,
+        100
+    ],
+    "scale": [
+        158
+    ],
+    "scatter": [
+        22
+    ],
+    "scenario": [
+        124,
+        127
+    ],
+    "schema": [
+        217
+    ],
+    "scheme": [
+        76,
+        269,
+        277,
+        290
+    ],
+    "school": [
+        333
+    ],
+    "science": [
+        113,
+        177,
+        197,
+        202,
+        226,
+        378
+    ],
+    "scisite": [
+        393
+    ],
+    "sclerosis": [
+        138
+    ],
+    "scottish": [
+        161
+    ],
+    "sea": [
+        24
+    ],
+    "search": [
+        84,
+        295,
+        361
+    ],
+    "second": [
+        148
+    ],
+    "security": [
+        8,
+        9,
+        10,
+        11,
+        57,
+        116,
+        117,
+        263,
+        337
+    ],
+    "segment": [
+        291
+    ],
+    "segmentation": [
+        28
+    ],
+    "select": [
+        144,
+        264,
+        343
+    ],
+    "selection": [
+        219,
+        340,
+        341
+    ],
+    "selforganising": [
+        242
+    ],
+    "semimarkov": [
+        136
+    ],
+    "semisupervised": [
+        28
+    ],
+    "senseenabled": [
+        311
+    ],
+    "sensitivity": [
+        127,
+        153,
+        164
+    ],
+    "sensor": [
+        50,
+        51,
+        260,
+        261,
+        302,
+        304,
+        307,
+        308,
+        366,
+        386
+    ],
+    "sentiment": [
+        248
+    ],
+    "sequence": [
+        278
+    ],
+    "sequential": [
+        286
+    ],
+    "serial": [
+        80
+    ],
+    "series": [
+        167,
+        264,
+        265,
+        267,
+        268,
+        269,
+        270,
+        271,
+        276,
+        277,
+        282,
+        287,
+        293,
+        294,
+        295
+    ],
+    "serious": [
+        177,
+        182,
+        184,
+        185,
+        187,
+        196,
+        197,
+        198,
+        199,
+        202,
+        207,
+        209,
+        210,
+        211,
+        214,
+        215,
+        217,
+        219,
+        220,
+        222,
+        223
+    ],
+    "service": [
+        25,
+        27,
+        250,
+        253,
+        299
+    ],
+    "serviceoriented": [
+        67
+    ],
+    "session": [
+        216
+    ],
+    "set": [
+        211,
+        291,
+        380
+    ],
+    "several": [
+        383
+    ],
+    "severe": [
+        140
+    ],
+    "sex": [
+        211
+    ],
+    "share": [
+        76,
+        224,
+        225
+    ],
+    "shearthinning": [
+        352
+    ],
+    "sheet": [
+        143
+    ],
+    "shopfloors": [
+        65
+    ],
+    "short": [
+        379
+    ],
+    "shorttime": [
+        85
+    ],
+    "sigma": [
+        286
+    ],
+    "sign": [
+        245
+    ],
+    "signal": [
+        36,
+        48,
+        83,
+        86,
+        87,
+        236
+    ],
+    "signature": [
+        90
+    ],
+    "significant": [
+        40,
+        111,
+        377
+    ],
+    "siloxane": [
+        160
+    ],
+    "similarity": [
+        245,
+        249,
+        295
+    ],
+    "simple": [
+        46
+    ],
+    "simrank": [
+        249
+    ],
+    "simulated": [
+        26
+    ],
+    "simulation": [
+        22,
+        72,
+        101
+    ],
+    "simultaneous": [
+        30,
+        31
+    ],
+    "singapore": [
+        303
+    ],
+    "single": [
+        1
+    ],
+    "siren": [
+        21
+    ],
+    "skill": [
+        312
+    ],
+    "sleep": [
+        141
+    ],
+    "slender": [
+        354
+    ],
+    "slip": [
+        143
+    ],
+    "small": [
+        66
+    ],
+    "smart": [
+        134
+    ],
+    "smartphone": [
+        114,
+        235,
+        381
+    ],
+    "social": [
+        59,
+        231,
+        251,
+        254,
+        362
+    ],
+    "socially": [
+        229
+    ],
+    "softcore": [
+        35
+    ],
+    "software": [
+        365,
+        368
+    ],
+    "softwaredefined": [
+        30,
+        31
+    ],
+    "solution": [
+        44,
+        347,
+        371
+    ],
+    "solve": [
+        333
+    ],
+    "sort": [
+        272
+    ],
+    "source": [
+        4,
+        368
+    ],
+    "space": [
+        203,
+        293
+    ],
+    "spanish": [
+        304
+    ],
+    "spatial": [
+        14,
+        15,
+        19,
+        158
+    ],
+    "spatialtemporal": [
+        129
+    ],
+    "spatiotemporal": [
+        305
+    ],
+    "specification": [
+        78
+    ],
+    "spectral": [
+        86,
+        87,
+        88
+    ],
+    "spectrogram": [
+        85,
+        89
+    ],
+    "spectrum": [
+        321,
+        322,
+        335,
+        338
+    ],
+    "speech": [
+        236,
+        238,
+        332,
+        333
+    ],
+    "speechtherapeutic": [
+        345
+    ],
+    "speedingup": [
+        295
+    ],
+    "spin": [
+        390
+    ],
+    "stability": [
+        348,
+        350,
+        352,
+        353,
+        355,
+        358
+    ],
+    "stack": [
+        232,
+        235
+    ],
+    "stage": [
+        284
+    ],
+    "standard": [
+        210
+    ],
+    "standby": [
+        45
+    ],
+    "state": [
+        49,
+        315,
+        316,
+        319,
+        324,
+        330,
+        331,
+        332
+    ],
+    "stateless": [
+        73
+    ],
+    "station": [
+        167
+    ],
+    "stationary": [
+        359
+    ],
+    "statistical": [
+        13
+    ],
+    "steady": [
+        49
+    ],
+    "steadystate": [
+        44
+    ],
+    "steel": [
+        389,
+        391,
+        394,
+        395
+    ],
+    "stem": [
+        104,
+        105
+    ],
+    "stft": [
+        89
+    ],
+    "stilbene": [
+        42
+    ],
+    "stochastic": [
+        20,
+        256
+    ],
+    "stock": [
+        163
+    ],
+    "storage": [
+        66
+    ],
+    "store": [
+        66
+    ],
+    "story": [
+        380
+    ],
+    "strategy": [
+        34,
+        103,
+        153,
+        154,
+        265
+    ],
+    "stray": [
+        83,
+        88,
+        90
+    ],
+    "stream": [
+        247,
+        354
+    ],
+    "streamflow": [
+        167
+    ],
+    "stress": [
+        142
+    ],
+    "stretch": [
+        143
+    ],
+    "structure": [
+        135
+    ],
+    "student": [
+        56,
+        188,
+        300,
+        315,
+        316,
+        317,
+        318,
+        319,
+        324,
+        328,
+        330,
+        331,
+        332,
+        334,
+        363,
+        387
+    ],
+    "study": [
+        90,
+        133,
+        192,
+        200,
+        263,
+        275,
+        282,
+        383
+    ],
+    "style": [
+        52,
+        54,
+        55,
+        57
+    ],
+    "stylebased": [
+        56
+    ],
+    "suffer": [
+        90
+    ],
+    "superlinear": [
+        143
+    ],
+    "support": [
+        77,
+        125,
+        137,
+        179,
+        205,
+        211,
+        313,
+        333,
+        336,
+        365
+    ],
+    "surface": [
+        161
+    ],
+    "survey": [
+        227,
+        247
+    ],
+    "sustainability": [
+        151,
+        193,
+        203
+    ],
+    "sustainable": [
+        154,
+        369
+    ],
+    "swarm": [
+        92,
+        280,
+        289
+    ],
+    "switch": [
+        97,
+        98
+    ],
+    "symbolic": [
+        287,
+        288,
+        289,
+        292,
+        296
+    ],
+    "symptom": [
+        138
+    ],
+    "syndromewillisekbom": [
+        139
+    ],
+    "synergistic": [
+        91
+    ],
+    "synergy": [
+        279
+    ],
+    "system": [
+        13,
+        14,
+        21,
+        23,
+        24,
+        40,
+        44,
+        45,
+        49,
+        53,
+        55,
+        58,
+        73,
+        81,
+        84,
+        98,
+        111,
+        117,
+        152,
+        164,
+        196,
+        252,
+        303,
+        306,
+        309,
+        345,
+        370,
+        374,
+        377
+    ],
+    "systematic": [
+        123,
+        138,
+        139,
+        141,
+        142,
+        180
+    ],
+    "syzygy": [
+        244
+    ],
+    "table": [
+        292
+    ],
+    "talk": [
+        329,
+        372
+    ],
+    "task": [
+        61,
+        181,
+        272,
+        313,
+        316,
+        320,
+        340,
+        343,
+        344
+    ],
+    "taskspecific": [
+        361
+    ],
+    "teach": [
+        57
+    ],
+    "teacher": [
+        104,
+        105,
+        177,
+        197,
+        202
+    ],
+    "teachership": [
+        206
+    ],
+    "team": [
+        176,
+        336
+    ],
+    "technical": [
+        126,
+        224,
+        225
+    ],
+    "technique": [
+        129,
+        295,
+        364
+    ],
+    "technology": [
+        134,
+        362,
+        390
+    ],
+    "tehran": [
+        163
+    ],
+    "temperature": [
+        383,
+        385
+    ],
+    "temperaturedependent": [
+        348,
+        350
+    ],
+    "test": [
+        47
+    ],
+    "testbed": [
+        303
+    ],
+    "text": [
+        248
+    ],
+    "theorem": [
+        136
+    ],
+    "thermal": [
+        228,
+        307,
+        376,
+        384
+    ],
+    "thing": [
+        253,
+        299,
+        301
+    ],
+    "third": [
+        123,
+        139
+    ],
+    "thm": [
+        161
+    ],
+    "threat": [
+        147
+    ],
+    "threedimensional": [
+        16
+    ],
+    "threevariate": [
+        149
+    ],
+    "time": [
+        48,
+        49,
+        74,
+        136,
+        231,
+        264,
+        265,
+        267,
+        268,
+        269,
+        270,
+        271,
+        276,
+        277,
+        282,
+        287,
+        293,
+        294,
+        295
+    ],
+    "timefrequency": [
+        87
+    ],
+    "timestamps": [
+        264
+    ],
+    "tokenbased": [
+        10
+    ],
+    "tool": [
+        86,
+        128
+    ],
+    "topic": [
+        251,
+        254
+    ],
+    "topology": [
+        61
+    ],
+    "touch": [
+        360
+    ],
+    "touchscreen": [
+        360
+    ],
+    "towards": [
+        126,
+        172,
+        183,
+        206,
+        210,
+        226,
+        241,
+        243,
+        287,
+        290,
+        296,
+        324
+    ],
+    "track": [
+        18,
+        102
+    ],
+    "training": [
+        179,
+        202
+    ],
+    "trajectory": [
+        100,
+        102
+    ],
+    "transaction": [
+        63,
+        78,
+        218
+    ],
+    "transceiver": [
+        1
+    ],
+    "transfer": [
+        390
+    ],
+    "transform": [
+        85,
+        265
+    ],
+    "transition": [
+        235
+    ],
+    "translate": [
+        186
+    ],
+    "transmission": [
+        1,
+        103,
+        262,
+        304
+    ],
+    "transpiration": [
+        143
+    ],
+    "treat": [
+        161
+    ],
+    "treatment": [
+        125
+    ],
+    "tree": [
+        172
+    ],
+    "trend": [
+        167
+    ],
+    "triangle": [
+        60
+    ],
+    "trimester": [
+        123,
+        139
+    ],
+    "turbine": [
+        306,
+        307,
+        309,
+        310
+    ],
+    "turbulence": [
+        15
+    ],
+    "turnlevel": [
+        248
+    ],
+    "tutor": [
+        329,
+        341
+    ],
+    "tweet": [
+        379
+    ],
+    "twin": [
+        134
+    ],
+    "twitter": [
+        379
+    ],
+    "twoparametric": [
+        43
+    ],
+    "twostep": [
+        282
+    ],
+    "type": [
+        148,
+        319
+    ],
+    "ubiquitous": [
+        371,
+        373
+    ],
+    "uf": [
+        161
+    ],
+    "uncertainty": [
+        91,
+        93,
+        150,
+        154,
+        155,
+        162,
+        165,
+        166,
+        168
+    ],
+    "understand": [
+        300,
+        363
+    ],
+    "underwater": [
+        15,
+        22,
+        23
+    ],
+    "university": [
+        188,
+        263,
+        300,
+        363,
+        388
+    ],
+    "unknown": [
+        91,
+        93,
+        94
+    ],
+    "unmanned": [
+        103
+    ],
+    "unreliable": [
+        262
+    ],
+    "update": [
+        292
+    ],
+    "upon": [
+        340,
+        344
+    ],
+    "url": [
+        379
+    ],
+    "usability": [
+        53,
+        55,
+        195
+    ],
+    "use": [
+        16,
+        18,
+        22,
+        48,
+        83,
+        87,
+        90,
+        108,
+        110,
+        120,
+        124,
+        127,
+        128,
+        131,
+        132,
+        135,
+        144,
+        145,
+        146,
+        149,
+        156,
+        160,
+        162,
+        164,
+        168,
+        172,
+        188,
+        197,
+        234,
+        246,
+        249,
+        265,
+        266,
+        269,
+        274,
+        280,
+        286,
+        290,
+        291,
+        292,
+        293,
+        297,
+        308,
+        316,
+        337,
+        339,
+        364,
+        372,
+        379,
+        380
+    ],
+    "user": [
+        340,
+        342,
+        343,
+        362,
+        380
+    ],
+    "utility": [
+        361,
+        365
+    ],
+    "uvlc": [
+        14
+    ],
+    "value": [
+        165,
+        166,
+        360,
+        368,
+        373
+    ],
+    "variability": [
+        158
+    ],
+    "variablechromosomelength": [
+        266,
+        270
+    ],
+    "various": [
+        88
+    ],
+    "vector": [
+        137,
+        265
+    ],
+    "vehicle": [
+        12,
+        21,
+        145,
+        227,
+        376
+    ],
+    "vehicletovehicle": [
+        20
+    ],
+    "vehicular": [
+        12,
+        13
+    ],
+    "ventilation": [
+        385
+    ],
+    "ventilatory": [
+        125
+    ],
+    "verify": [
+        173,
+        175
+    ],
+    "versus": [
+        287
+    ],
+    "via": [
+        70,
+        254
+    ],
+    "view": [
+        339
+    ],
+    "vine": [
+        146,
+        155
+    ],
+    "vineyard": [
+        133
+    ],
+    "virtual": [
+        198,
+        212,
+        218,
+        236,
+        302
+    ],
+    "viscosity": [
+        348,
+        350,
+        355
+    ],
+    "viscous": [
+        356
+    ],
+    "visible": [
+        13,
+        15,
+        16,
+        18,
+        20,
+        23,
+        24
+    ],
+    "visual": [
+        181,
+        228,
+        375
+    ],
+    "vlc": [
+        12
+    ],
+    "voip": [
+        372
+    ],
+    "voter": [
+        46
+    ],
+    "vulnerability": [
+        116
+    ],
+    "war": [
+        372
+    ],
+    "warm": [
+        300,
+        363
+    ],
+    "warn": [
+        21
+    ],
+    "water": [
+        161,
+        303
+    ],
+    "waterwisesg": [
+        303
+    ],
+    "wavelet": [
+        265
+    ],
+    "waveletbased": [
+        271
+    ],
+    "way": [
+        318
+    ],
+    "weak": [
+        15
+    ],
+    "web": [
+        69,
+        250
+    ],
+    "week": [
+        339
+    ],
+    "weight": [
+        148,
+        272,
+        280,
+        281,
+        289,
+        291
+    ],
+    "window": [
+        111,
+        377
+    ],
+    "wireless": [
+        2,
+        9,
+        22,
+        50,
+        51,
+        103,
+        260,
+        261,
+        262,
+        304,
+        306,
+        307,
+        308,
+        309,
+        310,
+        366
+    ],
+    "within": [
+        25,
+        142,
+        211,
+        336,
+        356
+    ],
+    "wizard": [
+        333
+    ],
+    "woopoptimised": [
+        108
+    ],
+    "wordsize": [
+        269
+    ],
+    "work": [
+        238
+    ],
+    "worker": [
+        142
+    ],
+    "workload": [
+        34
+    ],
+    "workshop": [
+        323,
+        371
+    ],
+    "wsn": [
+        259
+    ],
+    "year": [
+        367
+    ],
+    "young": [
+        312,
+        321,
+        335
+    ],
+    "\u2013": [
+        159
+    ],
+    "\u2019": [
+        89,
+        105,
+        131,
+        177,
+        197,
+        315,
+        316,
+        319,
+        375
+    ],
+    "\u2211gram": [
+        279
+    ],
+    "\u5bf9\u6570\u6b63\u6001\u5206\u5e03\u8870\u843d\u4e0b\u7684\u5149ofdm": [
+        17
+    ],
+    "\u6c34\u4e0b\u53ef\u89c1\u5149\u901a\u4fe1\u7a7a\u95f4\u5206\u96c6\u7cfb\u7edf": [
+        17
+    ]
+}
